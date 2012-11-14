@@ -47,7 +47,7 @@ def createPiece(player):
     
 
 def mainloop():
-                 
+    pass
 
 
 board = Board(30,10)
